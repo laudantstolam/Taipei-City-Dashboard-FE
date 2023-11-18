@@ -4251,6 +4251,135 @@
 			"links": [
 				"https://hwms.moenv.gov.tw/dispPageBox/shop/shopCP.aspx?ddsPageID=REUSABLECUP&p=15"
 			]
+		},
+		"301": {
+			"id": 301,
+			"index": "electric-motor charging stop",
+			"map_config": [
+				{
+					"index": "taipei_town",
+					"type": "line",
+					"paint": {
+						"line-color": "#d16ae2"
+					}
+				},
+				{
+					"index": "ev_taipei",
+					"paint": {
+						"circle-color": "#ffc014",
+						"circle-opacity": 0.3,
+						"circle-radius": 3
+					},
+					"property": [
+						{
+							"key": "company",
+							"name": "公司名稱"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						},
+						{
+							"key": "position",
+							"name": "類型"
+						}
+					],
+					"type": "circle",
+					"title": "充電站"
+				},
+				{
+					"index": "charge_center_taipei",
+					"type": "circle",
+					"paint": {
+						"circle-color": "#fa1302",
+						"circle-opacity": 0.4,
+						"circle-radius": 10
+					}
+				}
+			],
+			"name": "電動機車充電站",
+			"chart_config": {
+				"types": ["MapLegend"],
+				"unit": "個",
+				"map_filter": ["type", ["feature", "other"]]
+			},
+			"chart_data": [
+				{
+					"color": ["#8fd1c3"],
+					"unit": null,
+					"name": "共享雨傘",
+					"value": 207
+				},
+				{
+					"color": ["#0070bd"],
+					"unit": null,
+					"name": "共享環保杯",
+					"value": 613
+				}
+			],
+			"source": "臺北市政府環保局",
+			"contributors": ["tuic"],
+			"short_desc": "電動機車充電站",
+			"long_desc": "顯示各行政區內的電動機車充電站",
+			"use_case": "IDK",
+			"links": [
+				"https://data.taipei/api/frontstage/tpeod/dataset/resource.download?rid=eff59f75-4a84-463d-adbe-59446dbf94c8"
+			]
+		},
+		"302": {
+			"id": 302,
+			"index": "solar_electric",
+			"map_config": null,
+			"chart_config": {
+				"color": [
+					"#ca0020",
+					"#e97c69",
+					"#bababa",
+					"#ca0020",
+					"#e97c69",
+					"#bababa",
+					"#ca0020",
+					"#e97c69",
+					"#bababa",
+					"#ca0020",
+					"#e97c69",
+					"#bababa"
+				],
+				"types": ["BarChart", "DonutChart2"],
+				"unit": "件"
+			},
+			"history_data": true,
+			"source": "警察局",
+			"time_from": "2023-02-01T00:00:00+08:00",
+			"time_to": "2023-08-03T16:07:24+08:00",
+			"update_freq": "1",
+			"update_freq_unit": "day",
+			"name": "各區太陽能發電量",
+			"short_desc": "最近一年內各行政區太陽能發電量",
+			"long_desc": "最近一年內各行政區太陽能發電量以及占比",
+			"use_case": "觀察時間與地區及日照量變化形成",
+			"links": [],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"303": {
+			"id": 303,
+			"index": "trash per people",
+			"map_config": null,
+			"name": "台北市各區垃圾量",
+			"chart_config": {
+				"color": ["#52B69A"],
+				"types": ["RadarChart"],
+				"unit": "公噸"
+			},
+			"source": "環境部環境管理署",
+			"contributors": ["tuic"],
+			"short_desc": "比較各個行政區的廢棄物累積量",
+			"long_desc": "藉由統計歷年來各區垃圾清運量以及人口數得到區域性人均排放廢棄物數據",
+			"use_case": "藉由找到極端值進行進一步情庫了解與",
+			"links": [
+				"https://tsis.dbas.gov.taipei/statis/webMain.aspx?sys=220&ym=9300&ymt=11100&kind=21&type=0&funid=a03000402&cycle=4&outmode=0&compmode=00&outmode=0&ohtml=q250&outkind=5&fld0=1&codspc0=0,13,&rdm=R78724"
+			]
 		}
 	}
 }

@@ -1,5 +1,6 @@
 export const chartTypes = {
 	DonutChart: "圓餅圖", // [V] V
+	DonutChart2: "客製化圓餅圖", // [V] V
 	BarChart: "橫向長條圖", // [V] V
 	ColumnChart: "縱向長條圖", // [V] V
 	BarPercentChart: "長條圖(%)", // [V] V
