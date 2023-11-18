@@ -4365,7 +4365,62 @@
 		"303": {
 			"id": 303,
 			"index": "trash per people",
-			"map_config": null,
+			"map_config": [
+				{
+					"index": "taipei_town",
+					"source": "taipei_town",
+					"type": "fill-extrusion",
+					"paint": {
+						"fill-extrusion-color": [
+							"match",
+							["get", "TNAME"],
+							"大安區",
+							"#8c2616",
+							"#d67263"
+						],
+
+						"fill-extrusion-height": [
+							"match",
+							["get", "TNAME"],
+							"北投區",
+							417,
+							"士林區",
+							459,
+							"內湖區",
+							474,
+							"南港區",
+							196,
+							"松山區",
+							331,
+							"信義區",
+							355,
+							"中山區",
+							371,
+							"大同區",
+							299,
+							"中正區",
+							258,
+							"萬華區",
+							206,
+							"大安區",
+							500,
+							"文山區",
+							447,
+							3
+						],
+
+						"fill-extrusion-opacity": 0.6,
+						"fill-extrusion-base": 10
+					}
+				},
+				{
+					"index": "taipei_town",
+					"type": "line",
+					"paint": {
+						"line-color": "#d16ae2"
+					}
+				}
+			],
 			"name": "台北市各區垃圾量",
 			"chart_config": {
 				"color": ["#52B69A"],

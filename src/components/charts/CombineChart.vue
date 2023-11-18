@@ -100,10 +100,16 @@ const chartOptions = ref({
 	<div v-if="activeChart === 'CombineChart'">
 		<apexchart
 			width="100%"
-			height="270px"
+			height="170px"
 			type="radar"
 			:options="chartOptions"
 			:series="series"
+			style="
+				margin-top: 17%; /* 水平置中 */
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			"
 		></apexchart>
 	</div>
 </template>
