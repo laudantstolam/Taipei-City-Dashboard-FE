@@ -4369,7 +4369,7 @@
 			"name": "台北市各區垃圾量",
 			"chart_config": {
 				"color": ["#52B69A"],
-				"types": ["RadarChart"],
+				"types": ["CombineChart"],
 				"unit": "公噸"
 			},
 			"source": "環境部環境管理署",
