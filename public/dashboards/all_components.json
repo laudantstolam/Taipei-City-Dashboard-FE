@@ -4217,7 +4217,7 @@
 					"title": "循環杯"
 				},
 				{
-					"index": "cup_taipei",
+					"index": "umbrella_taipei",
 					"type": "symbol",
 					"icon": "umbrella",
 					"title": "raingo 共享雨具"
@@ -4231,17 +4231,16 @@
 			},
 			"chart_data": [
 				{
-					"color": ["#0070bd"],
-					"types": ["MetroChart"],
+					"color": ["#8fd1c3"],
 					"unit": null,
-					"name": "共享環保杯",
-					"value": 645
+					"name": "共享雨傘",
+					"value": 207
 				},
 				{
-					"color": ["#03a9f4"],
-					"types": ["MetroChart"],
-					"name": "共享雨傘",
-					"value": 256
+					"color": ["#0070bd"],
+					"unit": null,
+					"name": "共享環保杯",
+					"value": 613
 				}
 			],
 			"source": "環境部環境管理署",
