@@ -4187,6 +4187,93 @@
 				"https://github.com/tpe-doit/YouBike-Optimization"
 			],
 			"contributors": ["tuic"]
+		},
+		"300": {
+			"id": 300,
+			"index": "share",
+			"map_config": [
+				{
+					"index": "cup_taipei",
+					"paint": {
+						"circle-color": [
+							"match",
+							["get", "branch"],
+							"統一超商",
+							"#86e9f6",
+							"white"
+						],
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12.99,
+							2,
+							13,
+							["match", ["get", "branch"], "統一超商", 2.5, 3],
+							18,
+							[
+								"match",
+								["get", "branch"],
+								"統一超商",
+								6,
+								"星巴克",
+								14,
+								8
+							]
+						]
+					},
+					"property": [
+						{
+							"key": "branch",
+							"name": "連鎖品牌"
+						},
+						{
+							"key": "store",
+							"name": "門市名稱"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						},
+						{
+							"key": "telphone",
+							"name": "門市號碼"
+						}
+					],
+					"type": "circle",
+
+					"title": "循環杯"
+				}
+			],
+			"name": "環保共享設施位置",
+			"chart_config": {
+				"types": ["MapLegend"],
+				"unit": "個",
+				"map_filter": ["branch", ["統一超商", "星巴克"]]
+			},
+			"chart_data": [
+				{
+					"color": ["#0070bd"],
+					"types": ["MetroChart"],
+					"unit": null,
+					"name": "共享環保杯",
+					"value": 36
+				},
+				{
+					"type": "circle",
+					"name": "共享雨傘",
+					"color": "#03a9f4",
+					"value": 3621
+				}
+			],
+			"source": "環境部環境管理署",
+			"contributors": ["tuic"],
+			"short_desc": "顯示台北市共享設施的位置",
+			"long_desc": "顯示台北市內提供共享行動杯/共享雨傘的位置",
+			"use_case": "藉由重複利用減少不必要消耗",
+			"links": [
+				"https://hwms.moenv.gov.tw/dispPageBox/shop/shopCP.aspx?ddsPageID=REUSABLECUP&p=15"
+			]
 		}
 	}
 }
