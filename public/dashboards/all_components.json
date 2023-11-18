@@ -4194,34 +4194,7 @@
 			"map_config": [
 				{
 					"index": "cup_taipei",
-					"paint": {
-						"circle-color": [
-							"match",
-							["get", "branch"],
-							"統一超商",
-							"#86e9f6",
-							"white"
-						],
-						"circle-radius": [
-							"interpolate",
-							["linear"],
-							["zoom"],
-							12.99,
-							2,
-							13,
-							["match", ["get", "branch"], "統一超商", 2.5, 3],
-							18,
-							[
-								"match",
-								["get", "branch"],
-								"統一超商",
-								6,
-								"星巴克",
-								14,
-								8
-							]
-						]
-					},
+
 					"property": [
 						{
 							"key": "branch",
@@ -4240,8 +4213,8 @@
 							"name": "門市號碼"
 						}
 					],
-					"type": "circle",
-
+					"type": "symbol",
+					"icon": "cup-straw",
 					"title": "循環杯"
 				}
 			],
@@ -4249,7 +4222,7 @@
 			"chart_config": {
 				"types": ["MapLegend"],
 				"unit": "個",
-				"map_filter": ["branch", ["統一超商", "星巴克"]]
+				"map_filter": ["type", ["Feature", "Umbrella"]]
 			},
 			"chart_data": [
 				{
@@ -4260,9 +4233,9 @@
 					"value": 36
 				},
 				{
-					"type": "circle",
+					"color": ["#03a9f4"],
+					"types": ["MetroChart"],
 					"name": "共享雨傘",
-					"color": "#03a9f4",
 					"value": 3621
 				}
 			],
