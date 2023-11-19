@@ -15,4 +15,5 @@ export const chartTypes = {
 	PolarChart: "極座標圖", // []
 	WordcloudChart: "文字雲", // []
 	CombineChart: "客製化組合圖",
+	BubbleChart: "氣泡圖",
 };

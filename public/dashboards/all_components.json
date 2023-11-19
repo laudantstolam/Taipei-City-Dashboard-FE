@@ -4237,10 +4237,11 @@
 					"value": 207
 				},
 				{
-					"color": ["#0070bd"],
+					"color": ["#cbb3f4"],
 					"unit": null,
 					"name": "共享環保杯",
-					"value": 613
+					"value": 613,
+					"zoom": 5
 				}
 			],
 			"source": "環境部環境管理署",
@@ -4305,16 +4306,16 @@
 			},
 			"chart_data": [
 				{
-					"color": ["#8fd1c3"],
+					"color": ["#6b5925"],
 					"unit": null,
-					"name": "共享雨傘",
-					"value": 207
+					"name": "充電站總計",
+					"value": 709
 				},
 				{
-					"color": ["#0070bd"],
+					"color": ["#7e221b"],
 					"unit": null,
-					"name": "共享環保杯",
-					"value": 613
+					"name": "充電站密集區",
+					"value": 12
 				}
 			],
 			"source": "臺北市政府環保局",
@@ -4423,7 +4424,7 @@
 			],
 			"name": "台北市各區垃圾量",
 			"chart_config": {
-				"color": ["#52B69A"],
+				"color": ["#52B69A", "#5264b6"],
 				"types": ["CombineChart"],
 				"unit": "公噸"
 			},
@@ -4435,6 +4436,29 @@
 			"links": [
 				"https://tsis.dbas.gov.taipei/statis/webMain.aspx?sys=220&ym=9300&ymt=11100&kind=21&type=0&funid=a03000402&cycle=4&outmode=0&compmode=00&outmode=0&ohtml=q250&outkind=5&fld0=1&codspc0=0,13,&rdm=R78724"
 			]
+		},
+		"304": {
+			"id": 304,
+			"index": "air pollute",
+			"map_config": null,
+			"chart_config": {
+				"types": ["BubbleChart"],
+				"unit": "μg/m3",
+				"color": ["#52B69A"]
+			},
+			"history_data": true,
+			"source": "氣象局",
+			"time_from": "2023-02-01T00:00:00+08:00",
+			"time_to": "2023-08-03T16:07:24+08:00",
+			"update_freq": "1",
+			"update_freq_unit": "month",
+			"name": "空氣品質",
+			"short_desc": "最近一年空氣品質pm10/pm2.5含量",
+			"long_desc": "最近一年空氣品質pm10/pm2.5含量",
+			"use_case": "可搭配日照進行觀測並得到太陽能板架設推薦",
+			"links": [],
+			"tags": [],
+			"contributors": ["tuic"]
 		}
 	}
 }

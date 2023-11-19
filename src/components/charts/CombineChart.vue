@@ -17,7 +17,7 @@ const chartOptions = ref({
 		show: false,
 	},
 	legend: {
-		show: props.chart_config.categories ? true : false,
+		show: true,
 	},
 	markers: {
 		size: 3,
@@ -100,7 +100,7 @@ const chartOptions = ref({
 	<div v-if="activeChart === 'CombineChart'">
 		<apexchart
 			width="100%"
-			height="170px"
+			height="250px"
 			type="radar"
 			:options="chartOptions"
 			:series="series"

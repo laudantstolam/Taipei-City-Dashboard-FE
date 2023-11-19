@@ -36,6 +36,7 @@ import MetroChart from "./components/charts/MetroChart.vue";
 import HeatmapChart from "./components/charts/HeatmapChart.vue";
 import DonutChart2 from "./components/charts/DonutChart2.vue";
 import CombineChart from "./components/charts/CombineChart.vue";
+import BubbleChart from "./components/charts/BubbleChart.vue";
 
 const app = createApp(App);
 
@@ -60,5 +61,6 @@ app.component("MetroChart", MetroChart);
 app.component("HeatmapChart", HeatmapChart);
 app.component("DonutChart2", DonutChart2);
 app.component("CombineChart", CombineChart);
+app.component("BubbleChart", BubbleChart);
 
 app.mount("#app");

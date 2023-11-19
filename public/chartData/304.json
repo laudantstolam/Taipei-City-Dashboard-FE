@@ -1,0 +1,4444 @@
+{
+	"data": [
+		{
+			"name": "士林",
+			"data": [
+				{
+					"index": 0,
+					"term": "CO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.29,
+					"unit": "ppm"
+				},
+				{
+					"index": 1,
+					"term": "CO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.32,
+					"unit": "ppm"
+				},
+				{
+					"index": 2,
+					"term": "CO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.29,
+					"unit": "ppm"
+				},
+				{
+					"index": 3,
+					"term": "CO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.33,
+					"unit": "ppm"
+				},
+				{
+					"index": 4,
+					"term": "CO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.26,
+					"unit": "ppm"
+				},
+				{
+					"index": 5,
+					"term": "CO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.24,
+					"unit": "ppm"
+				},
+				{
+					"index": 6,
+					"term": "CO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.2,
+					"unit": "ppm"
+				},
+				{
+					"index": 7,
+					"term": "CO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.22,
+					"unit": "ppm"
+				},
+				{
+					"index": 8,
+					"term": "CO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.18,
+					"unit": "ppm"
+				},
+				{
+					"index": 9,
+					"term": "CO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.23,
+					"unit": "ppm"
+				},
+				{
+					"index": 10,
+					"term": "NO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 1.85,
+					"unit": "ppb"
+				},
+				{
+					"index": 11,
+					"term": "NO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.82,
+					"unit": "ppb"
+				},
+				{
+					"index": 12,
+					"term": "NO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 1.96,
+					"unit": "ppb"
+				},
+				{
+					"index": 13,
+					"term": "NO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 1.49,
+					"unit": "ppb"
+				},
+				{
+					"index": 14,
+					"term": "NO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 1.81,
+					"unit": "ppb"
+				},
+				{
+					"index": 15,
+					"term": "NO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 2.16,
+					"unit": "ppb"
+				},
+				{
+					"index": 16,
+					"term": "NO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 2.19,
+					"unit": "ppb"
+				},
+				{
+					"index": 17,
+					"term": "NO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 1.95,
+					"unit": "ppb"
+				},
+				{
+					"index": 18,
+					"term": "NO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 1.63,
+					"unit": "ppb"
+				},
+				{
+					"index": 19,
+					"term": "NO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 1.27,
+					"unit": "ppb"
+				},
+				{
+					"index": 20,
+					"term": "NO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 9.64,
+					"unit": "ppb"
+				},
+				{
+					"index": 21,
+					"term": "NO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 12.14,
+					"unit": "ppb"
+				},
+				{
+					"index": 22,
+					"term": "NO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 12.05,
+					"unit": "ppb"
+				},
+				{
+					"index": 23,
+					"term": "NO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 12.16,
+					"unit": "ppb"
+				},
+				{
+					"index": 24,
+					"term": "NO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 10.03,
+					"unit": "ppb"
+				},
+				{
+					"index": 25,
+					"term": "NO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 10.43,
+					"unit": "ppb"
+				},
+				{
+					"index": 26,
+					"term": "NO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 9.54,
+					"unit": "ppb"
+				},
+				{
+					"index": 27,
+					"term": "NO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 9.68,
+					"unit": "ppb"
+				},
+				{
+					"index": 28,
+					"term": "NO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 7.08,
+					"unit": "ppb"
+				},
+				{
+					"index": 29,
+					"term": "NO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 7.79,
+					"unit": "ppb"
+				},
+				{
+					"index": 30,
+					"term": "NOx",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 11.55,
+					"unit": "ppb"
+				},
+				{
+					"index": 31,
+					"term": "NOx",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 15.01,
+					"unit": "ppb"
+				},
+				{
+					"index": 32,
+					"term": "NOx",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 14.06,
+					"unit": "ppb"
+				},
+				{
+					"index": 33,
+					"term": "NOx",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 13.7,
+					"unit": "ppb"
+				},
+				{
+					"index": 34,
+					"term": "NOx",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 11.89,
+					"unit": "ppb"
+				},
+				{
+					"index": 35,
+					"term": "NOx",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 12.65,
+					"unit": "ppb"
+				},
+				{
+					"index": 36,
+					"term": "NOx",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 11.78,
+					"unit": "ppb"
+				},
+				{
+					"index": 37,
+					"term": "NOx",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 11.69,
+					"unit": "ppb"
+				},
+				{
+					"index": 38,
+					"term": "NOx",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 8.76,
+					"unit": "ppb"
+				},
+				{
+					"index": 39,
+					"term": "NOx",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 9.12,
+					"unit": "ppb"
+				},
+				{
+					"index": 40,
+					"term": "O3",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 34.53,
+					"unit": "ppb"
+				},
+				{
+					"index": 41,
+					"term": "O3",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 33.12,
+					"unit": "ppb"
+				},
+				{
+					"index": 42,
+					"term": "O3",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 37.85,
+					"unit": "ppb"
+				},
+				{
+					"index": 43,
+					"term": "O3",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 37.66,
+					"unit": "ppb"
+				},
+				{
+					"index": 44,
+					"term": "O3",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 34.28,
+					"unit": "ppb"
+				},
+				{
+					"index": 45,
+					"term": "O3",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 24.62,
+					"unit": "ppb"
+				},
+				{
+					"index": 46,
+					"term": "O3",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 20.98,
+					"unit": "ppb"
+				},
+				{
+					"index": 47,
+					"term": "O3",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 22.54,
+					"unit": "ppb"
+				},
+				{
+					"index": 48,
+					"term": "O3",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 24.57,
+					"unit": "ppb"
+				},
+				{
+					"index": 49,
+					"term": "O3",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 41.97,
+					"unit": "ppb"
+				},
+				{
+					"index": 50,
+					"term": "PM10",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 24.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 51,
+					"term": "PM10",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 23.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 52,
+					"term": "PM10",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 27.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 53,
+					"term": "PM10",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 34.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 54,
+					"term": "PM10",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 25.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 55,
+					"term": "PM10",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 20.0,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 56,
+					"term": "PM10",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 18.5,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 57,
+					"term": "PM10",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 17.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 58,
+					"term": "PM10",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 13.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 59,
+					"term": "PM10",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 16.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 60,
+					"term": "PM2.5",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 13.5,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 61,
+					"term": "PM2.5",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 12.8,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 62,
+					"term": "PM2.5",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 14.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 63,
+					"term": "PM2.5",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 17.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 64,
+					"term": "PM2.5",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 13.0,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 65,
+					"term": "PM2.5",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 11.0,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 66,
+					"term": "PM2.5",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 10.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 67,
+					"term": "PM2.5",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 10.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 68,
+					"term": "PM2.5",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 8.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 69,
+					"term": "PM2.5",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 10.5,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 70,
+					"term": "SO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.89,
+					"unit": "ppb"
+				},
+				{
+					"index": 71,
+					"term": "SO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.98,
+					"unit": "ppb"
+				},
+				{
+					"index": 72,
+					"term": "SO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.94,
+					"unit": "ppb"
+				},
+				{
+					"index": 73,
+					"term": "SO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.96,
+					"unit": "ppb"
+				},
+				{
+					"index": 74,
+					"term": "SO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.76,
+					"unit": "ppb"
+				},
+				{
+					"index": 75,
+					"term": "SO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.85,
+					"unit": "ppb"
+				},
+				{
+					"index": 76,
+					"term": "SO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.8,
+					"unit": "ppb"
+				},
+				{
+					"index": 77,
+					"term": "SO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.68,
+					"unit": "ppb"
+				},
+				{
+					"index": 78,
+					"term": "SO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.86,
+					"unit": "ppb"
+				},
+				{
+					"index": 79,
+					"term": "SO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.78,
+					"unit": "ppb"
+				}
+			]
+		},
+		{
+			"name": "大同",
+			"data": [
+				{
+					"index": 0,
+					"term": "CH4",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.02,
+					"unit": "ppm"
+				},
+				{
+					"index": 1,
+					"term": "CH4",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.04,
+					"unit": "ppm"
+				},
+				{
+					"index": 2,
+					"term": "CH4",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 2.03,
+					"unit": "ppm"
+				},
+				{
+					"index": 3,
+					"term": "CH4",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.08,
+					"unit": "ppm"
+				},
+				{
+					"index": 4,
+					"term": "CH4",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.04,
+					"unit": "ppm"
+				},
+				{
+					"index": 5,
+					"term": "CH4",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 2.0,
+					"unit": "ppm"
+				},
+				{
+					"index": 6,
+					"term": "CH4",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 1.96,
+					"unit": "ppm"
+				},
+				{
+					"index": 7,
+					"term": "CH4",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 1.99,
+					"unit": "ppm"
+				},
+				{
+					"index": 8,
+					"term": "CH4",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 1.96,
+					"unit": "ppm"
+				},
+				{
+					"index": 9,
+					"term": "CH4",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.05,
+					"unit": "ppm"
+				},
+				{
+					"index": 10,
+					"term": "CO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.69,
+					"unit": "ppm"
+				},
+				{
+					"index": 11,
+					"term": "CO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.74,
+					"unit": "ppm"
+				},
+				{
+					"index": 12,
+					"term": "CO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.8,
+					"unit": "ppm"
+				},
+				{
+					"index": 13,
+					"term": "CO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.83,
+					"unit": "ppm"
+				},
+				{
+					"index": 14,
+					"term": "CO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.77,
+					"unit": "ppm"
+				},
+				{
+					"index": 15,
+					"term": "CO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.97,
+					"unit": "ppm"
+				},
+				{
+					"index": 16,
+					"term": "CO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.91,
+					"unit": "ppm"
+				},
+				{
+					"index": 17,
+					"term": "CO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.92,
+					"unit": "ppm"
+				},
+				{
+					"index": 18,
+					"term": "CO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.67,
+					"unit": "ppm"
+				},
+				{
+					"index": 19,
+					"term": "CO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.68,
+					"unit": "ppm"
+				},
+				{
+					"index": 20,
+					"term": "NMHC",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.18,
+					"unit": "ppm"
+				},
+				{
+					"index": 21,
+					"term": "NMHC",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.19,
+					"unit": "ppm"
+				},
+				{
+					"index": 22,
+					"term": "NMHC",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.22,
+					"unit": "ppm"
+				},
+				{
+					"index": 23,
+					"term": "NMHC",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.21,
+					"unit": "ppm"
+				},
+				{
+					"index": 24,
+					"term": "NMHC",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.19,
+					"unit": "ppm"
+				},
+				{
+					"index": 25,
+					"term": "NMHC",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.24,
+					"unit": "ppm"
+				},
+				{
+					"index": 26,
+					"term": "NMHC",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.23,
+					"unit": "ppm"
+				},
+				{
+					"index": 27,
+					"term": "NMHC",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.23,
+					"unit": "ppm"
+				},
+				{
+					"index": 28,
+					"term": "NMHC",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.18,
+					"unit": "ppm"
+				},
+				{
+					"index": 29,
+					"term": "NMHC",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.16,
+					"unit": "ppm"
+				},
+				{
+					"index": 30,
+					"term": "NO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 17.79,
+					"unit": "ppb"
+				},
+				{
+					"index": 31,
+					"term": "NO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 19.71,
+					"unit": "ppb"
+				},
+				{
+					"index": 32,
+					"term": "NO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 19.19,
+					"unit": "ppb"
+				},
+				{
+					"index": 33,
+					"term": "NO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 16.39,
+					"unit": "ppb"
+				},
+				{
+					"index": 34,
+					"term": "NO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 16.86,
+					"unit": "ppb"
+				},
+				{
+					"index": 35,
+					"term": "NO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 22.68,
+					"unit": "ppb"
+				},
+				{
+					"index": 36,
+					"term": "NO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 23.51,
+					"unit": "ppb"
+				},
+				{
+					"index": 37,
+					"term": "NO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 21.18,
+					"unit": "ppb"
+				},
+				{
+					"index": 38,
+					"term": "NO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 18.98,
+					"unit": "ppb"
+				},
+				{
+					"index": 39,
+					"term": "NO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 15.93,
+					"unit": "ppb"
+				},
+				{
+					"index": 40,
+					"term": "NO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 22.88,
+					"unit": "ppb"
+				},
+				{
+					"index": 41,
+					"term": "NO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 24.8,
+					"unit": "ppb"
+				},
+				{
+					"index": 42,
+					"term": "NO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 26.9,
+					"unit": "ppb"
+				},
+				{
+					"index": 43,
+					"term": "NO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 24.87,
+					"unit": "ppb"
+				},
+				{
+					"index": 44,
+					"term": "NO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 22.44,
+					"unit": "ppb"
+				},
+				{
+					"index": 45,
+					"term": "NO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 20.46,
+					"unit": "ppb"
+				},
+				{
+					"index": 46,
+					"term": "NO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 18.11,
+					"unit": "ppb"
+				},
+				{
+					"index": 47,
+					"term": "NO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 21.94,
+					"unit": "ppb"
+				},
+				{
+					"index": 48,
+					"term": "NO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 18.54,
+					"unit": "ppb"
+				},
+				{
+					"index": 49,
+					"term": "NO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 23.62,
+					"unit": "ppb"
+				},
+				{
+					"index": 50,
+					"term": "NOx",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 40.73,
+					"unit": "ppb"
+				},
+				{
+					"index": 51,
+					"term": "NOx",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 44.56,
+					"unit": "ppb"
+				},
+				{
+					"index": 52,
+					"term": "NOx",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 46.14,
+					"unit": "ppb"
+				},
+				{
+					"index": 53,
+					"term": "NOx",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 41.32,
+					"unit": "ppb"
+				},
+				{
+					"index": 54,
+					"term": "NOx",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 39.36,
+					"unit": "ppb"
+				},
+				{
+					"index": 55,
+					"term": "NOx",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 43.2,
+					"unit": "ppb"
+				},
+				{
+					"index": 56,
+					"term": "NOx",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 41.67,
+					"unit": "ppb"
+				},
+				{
+					"index": 57,
+					"term": "NOx",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 43.17,
+					"unit": "ppb"
+				},
+				{
+					"index": 58,
+					"term": "NOx",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 37.58,
+					"unit": "ppb"
+				},
+				{
+					"index": 59,
+					"term": "NOx",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 39.6,
+					"unit": "ppb"
+				},
+				{
+					"index": 60,
+					"term": "O3",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 21.04,
+					"unit": "ppb"
+				},
+				{
+					"index": 61,
+					"term": "O3",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 20.68,
+					"unit": "ppb"
+				},
+				{
+					"index": 62,
+					"term": "O3",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 22.95,
+					"unit": "ppb"
+				},
+				{
+					"index": 63,
+					"term": "O3",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 24.67,
+					"unit": "ppb"
+				},
+				{
+					"index": 64,
+					"term": "O3",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 21.27,
+					"unit": "ppb"
+				},
+				{
+					"index": 65,
+					"term": "O3",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 14.42,
+					"unit": "ppb"
+				},
+				{
+					"index": 66,
+					"term": "O3",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 12.47,
+					"unit": "ppb"
+				},
+				{
+					"index": 67,
+					"term": "O3",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 13.85,
+					"unit": "ppb"
+				},
+				{
+					"index": 68,
+					"term": "O3",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 14.93,
+					"unit": "ppb"
+				},
+				{
+					"index": 69,
+					"term": "O3",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 26.07,
+					"unit": "ppb"
+				},
+				{
+					"index": 70,
+					"term": "PM10",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 34.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 71,
+					"term": "PM10",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 34.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 72,
+					"term": "PM10",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 40.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 73,
+					"term": "PM10",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 47.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 74,
+					"term": "PM10",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 34.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 75,
+					"term": "PM10",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 27.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 76,
+					"term": "PM10",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 25.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 77,
+					"term": "PM10",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 23.0,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 78,
+					"term": "PM10",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 22.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 79,
+					"term": "PM10",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 25.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 80,
+					"term": "PM2.5",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 17.5,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 81,
+					"term": "PM2.5",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 17.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 82,
+					"term": "PM2.5",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 19.8,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 83,
+					"term": "PM2.5",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 21.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 84,
+					"term": "PM2.5",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 16.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 85,
+					"term": "PM2.5",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 15.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 86,
+					"term": "PM2.5",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 13.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 87,
+					"term": "PM2.5",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 13.0,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 88,
+					"term": "PM2.5",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 13.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 89,
+					"term": "PM2.5",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 14.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 90,
+					"term": "SO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 1.69,
+					"unit": "ppb"
+				},
+				{
+					"index": 91,
+					"term": "SO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 1.48,
+					"unit": "ppb"
+				},
+				{
+					"index": 92,
+					"term": "SO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 1.49,
+					"unit": "ppb"
+				},
+				{
+					"index": 93,
+					"term": "SO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 1.23,
+					"unit": "ppb"
+				},
+				{
+					"index": 94,
+					"term": "SO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 1.12,
+					"unit": "ppb"
+				},
+				{
+					"index": 95,
+					"term": "SO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 1.35,
+					"unit": "ppb"
+				},
+				{
+					"index": 96,
+					"term": "SO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 1.25,
+					"unit": "ppb"
+				},
+				{
+					"index": 97,
+					"term": "SO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 1.22,
+					"unit": "ppb"
+				},
+				{
+					"index": 98,
+					"term": "SO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 1.3,
+					"unit": "ppb"
+				},
+				{
+					"index": 99,
+					"term": "SO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 1.07,
+					"unit": "ppb"
+				},
+				{
+					"index": 100,
+					"term": "THC",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.2,
+					"unit": "ppm"
+				},
+				{
+					"index": 101,
+					"term": "THC",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.25,
+					"unit": "ppm"
+				},
+				{
+					"index": 102,
+					"term": "THC",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 2.26,
+					"unit": "ppm"
+				},
+				{
+					"index": 103,
+					"term": "THC",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.3,
+					"unit": "ppm"
+				},
+				{
+					"index": 104,
+					"term": "THC",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.24,
+					"unit": "ppm"
+				},
+				{
+					"index": 105,
+					"term": "THC",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 2.25,
+					"unit": "ppm"
+				},
+				{
+					"index": 106,
+					"term": "THC",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 2.19,
+					"unit": "ppm"
+				},
+				{
+					"index": 107,
+					"term": "THC",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 2.24,
+					"unit": "ppm"
+				},
+				{
+					"index": 108,
+					"term": "THC",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 2.15,
+					"unit": "ppm"
+				},
+				{
+					"index": 109,
+					"term": "THC",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.22,
+					"unit": "ppm"
+				}
+			]
+		},
+		{
+			"name": "中山",
+			"data": [
+				{
+					"index": 0,
+					"term": "CH4",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.12,
+					"unit": "ppm"
+				},
+				{
+					"index": 1,
+					"term": "CH4",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.14,
+					"unit": "ppm"
+				},
+				{
+					"index": 2,
+					"term": "CH4",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 2.12,
+					"unit": "ppm"
+				},
+				{
+					"index": 3,
+					"term": "CH4",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.16,
+					"unit": "ppm"
+				},
+				{
+					"index": 4,
+					"term": "CH4",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.11,
+					"unit": "ppm"
+				},
+				{
+					"index": 5,
+					"term": "CH4",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 2.07,
+					"unit": "ppm"
+				},
+				{
+					"index": 6,
+					"term": "CH4",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 2.03,
+					"unit": "ppm"
+				},
+				{
+					"index": 7,
+					"term": "CH4",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 2.07,
+					"unit": "ppm"
+				},
+				{
+					"index": 8,
+					"term": "CH4",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 2.01,
+					"unit": "ppm"
+				},
+				{
+					"index": 9,
+					"term": "CH4",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.07,
+					"unit": "ppm"
+				},
+				{
+					"index": 10,
+					"term": "CO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.45,
+					"unit": "ppm"
+				},
+				{
+					"index": 11,
+					"term": "CO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.52,
+					"unit": "ppm"
+				},
+				{
+					"index": 12,
+					"term": "CO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.47,
+					"unit": "ppm"
+				},
+				{
+					"index": 13,
+					"term": "CO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.49,
+					"unit": "ppm"
+				},
+				{
+					"index": 14,
+					"term": "CO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.42,
+					"unit": "ppm"
+				},
+				{
+					"index": 15,
+					"term": "CO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.41,
+					"unit": "ppm"
+				},
+				{
+					"index": 16,
+					"term": "CO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.34,
+					"unit": "ppm"
+				},
+				{
+					"index": 17,
+					"term": "CO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.4,
+					"unit": "ppm"
+				},
+				{
+					"index": 18,
+					"term": "CO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.3,
+					"unit": "ppm"
+				},
+				{
+					"index": 19,
+					"term": "CO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.35,
+					"unit": "ppm"
+				},
+				{
+					"index": 20,
+					"term": "NMHC",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.11,
+					"unit": "ppm"
+				},
+				{
+					"index": 21,
+					"term": "NMHC",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.13,
+					"unit": "ppm"
+				},
+				{
+					"index": 22,
+					"term": "NMHC",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.12,
+					"unit": "ppm"
+				},
+				{
+					"index": 23,
+					"term": "NMHC",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.11,
+					"unit": "ppm"
+				},
+				{
+					"index": 24,
+					"term": "NMHC",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.1,
+					"unit": "ppm"
+				},
+				{
+					"index": 25,
+					"term": "NMHC",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.11,
+					"unit": "ppm"
+				},
+				{
+					"index": 26,
+					"term": "NMHC",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.09,
+					"unit": "ppm"
+				},
+				{
+					"index": 27,
+					"term": "NMHC",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.11,
+					"unit": "ppm"
+				},
+				{
+					"index": 28,
+					"term": "NMHC",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.06,
+					"unit": "ppm"
+				},
+				{
+					"index": 29,
+					"term": "NMHC",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.06,
+					"unit": "ppm"
+				},
+				{
+					"index": 30,
+					"term": "NO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 5.14,
+					"unit": "ppb"
+				},
+				{
+					"index": 31,
+					"term": "NO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 8.02,
+					"unit": "ppb"
+				},
+				{
+					"index": 32,
+					"term": "NO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 5.68,
+					"unit": "ppb"
+				},
+				{
+					"index": 33,
+					"term": "NO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 4.31,
+					"unit": "ppb"
+				},
+				{
+					"index": 34,
+					"term": "NO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 4.89,
+					"unit": "ppb"
+				},
+				{
+					"index": 35,
+					"term": "NO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 5.89,
+					"unit": "ppb"
+				},
+				{
+					"index": 36,
+					"term": "NO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 5.62,
+					"unit": "ppb"
+				},
+				{
+					"index": 37,
+					"term": "NO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 5.49,
+					"unit": "ppb"
+				},
+				{
+					"index": 38,
+					"term": "NO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 4.96,
+					"unit": "ppb"
+				},
+				{
+					"index": 39,
+					"term": "NO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 3.29,
+					"unit": "ppb"
+				},
+				{
+					"index": 40,
+					"term": "NO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 17.77,
+					"unit": "ppb"
+				},
+				{
+					"index": 41,
+					"term": "NO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 20.82,
+					"unit": "ppb"
+				},
+				{
+					"index": 42,
+					"term": "NO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 20.9,
+					"unit": "ppb"
+				},
+				{
+					"index": 43,
+					"term": "NO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 19.73,
+					"unit": "ppb"
+				},
+				{
+					"index": 44,
+					"term": "NO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 16.52,
+					"unit": "ppb"
+				},
+				{
+					"index": 45,
+					"term": "NO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 15.62,
+					"unit": "ppb"
+				},
+				{
+					"index": 46,
+					"term": "NO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 13.55,
+					"unit": "ppb"
+				},
+				{
+					"index": 47,
+					"term": "NO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 15.15,
+					"unit": "ppb"
+				},
+				{
+					"index": 48,
+					"term": "NO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 13.0,
+					"unit": "ppb"
+				},
+				{
+					"index": 49,
+					"term": "NO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 15.02,
+					"unit": "ppb"
+				},
+				{
+					"index": 50,
+					"term": "NOx",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 22.97,
+					"unit": "ppb"
+				},
+				{
+					"index": 51,
+					"term": "NOx",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 28.89,
+					"unit": "ppb"
+				},
+				{
+					"index": 52,
+					"term": "NOx",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 26.63,
+					"unit": "ppb"
+				},
+				{
+					"index": 53,
+					"term": "NOx",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 24.09,
+					"unit": "ppb"
+				},
+				{
+					"index": 54,
+					"term": "NOx",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 21.46,
+					"unit": "ppb"
+				},
+				{
+					"index": 55,
+					"term": "NOx",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 21.57,
+					"unit": "ppb"
+				},
+				{
+					"index": 56,
+					"term": "NOx",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 19.23,
+					"unit": "ppb"
+				},
+				{
+					"index": 57,
+					"term": "NOx",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 20.7,
+					"unit": "ppb"
+				},
+				{
+					"index": 58,
+					"term": "NOx",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 18.01,
+					"unit": "ppb"
+				},
+				{
+					"index": 59,
+					"term": "NOx",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 18.37,
+					"unit": "ppb"
+				},
+				{
+					"index": 60,
+					"term": "O3",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 26.15,
+					"unit": "ppb"
+				},
+				{
+					"index": 61,
+					"term": "O3",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 25.01,
+					"unit": "ppb"
+				},
+				{
+					"index": 62,
+					"term": "O3",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 29.62,
+					"unit": "ppb"
+				},
+				{
+					"index": 63,
+					"term": "O3",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 32.0,
+					"unit": "ppb"
+				},
+				{
+					"index": 64,
+					"term": "O3",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 28.99,
+					"unit": "ppb"
+				},
+				{
+					"index": 65,
+					"term": "O3",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 20.19,
+					"unit": "ppb"
+				},
+				{
+					"index": 66,
+					"term": "O3",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 17.98,
+					"unit": "ppb"
+				},
+				{
+					"index": 67,
+					"term": "O3",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 18.97,
+					"unit": "ppb"
+				},
+				{
+					"index": 68,
+					"term": "O3",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 19.82,
+					"unit": "ppb"
+				},
+				{
+					"index": 69,
+					"term": "O3",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 34.2,
+					"unit": "ppb"
+				},
+				{
+					"index": 70,
+					"term": "PM10",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 26.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 71,
+					"term": "PM10",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 26.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 72,
+					"term": "PM10",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 33.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 73,
+					"term": "PM10",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 40.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 74,
+					"term": "PM10",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 30.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 75,
+					"term": "PM10",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 22.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 76,
+					"term": "PM10",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 20.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 77,
+					"term": "PM10",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 22.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 78,
+					"term": "PM10",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 17.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 79,
+					"term": "PM10",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 21.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 80,
+					"term": "PM2.5",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 13.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 81,
+					"term": "PM2.5",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 13.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 82,
+					"term": "PM2.5",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 14.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 83,
+					"term": "PM2.5",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 18.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 84,
+					"term": "PM2.5",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 13.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 85,
+					"term": "PM2.5",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 9.5,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 86,
+					"term": "PM2.5",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 7.8,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 87,
+					"term": "PM2.5",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 9.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 88,
+					"term": "PM2.5",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 9.0,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 89,
+					"term": "PM2.5",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 11.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 90,
+					"term": "SO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 1.06,
+					"unit": "ppb"
+				},
+				{
+					"index": 91,
+					"term": "SO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 1.0,
+					"unit": "ppb"
+				},
+				{
+					"index": 92,
+					"term": "SO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.97,
+					"unit": "ppb"
+				},
+				{
+					"index": 93,
+					"term": "SO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.91,
+					"unit": "ppb"
+				},
+				{
+					"index": 94,
+					"term": "SO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.87,
+					"unit": "ppb"
+				},
+				{
+					"index": 95,
+					"term": "SO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.89,
+					"unit": "ppb"
+				},
+				{
+					"index": 96,
+					"term": "SO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.83,
+					"unit": "ppb"
+				},
+				{
+					"index": 97,
+					"term": "SO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.75,
+					"unit": "ppb"
+				},
+				{
+					"index": 98,
+					"term": "SO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.83,
+					"unit": "ppb"
+				},
+				{
+					"index": 99,
+					"term": "SO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.73,
+					"unit": "ppb"
+				},
+				{
+					"index": 100,
+					"term": "THC",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.24,
+					"unit": "ppm"
+				},
+				{
+					"index": 101,
+					"term": "THC",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.28,
+					"unit": "ppm"
+				},
+				{
+					"index": 102,
+					"term": "THC",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 2.24,
+					"unit": "ppm"
+				},
+				{
+					"index": 103,
+					"term": "THC",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.28,
+					"unit": "ppm"
+				},
+				{
+					"index": 104,
+					"term": "THC",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.21,
+					"unit": "ppm"
+				},
+				{
+					"index": 105,
+					"term": "THC",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 2.2,
+					"unit": "ppm"
+				},
+				{
+					"index": 106,
+					"term": "THC",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 2.13,
+					"unit": "ppm"
+				},
+				{
+					"index": 107,
+					"term": "THC",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 2.19,
+					"unit": "ppm"
+				},
+				{
+					"index": 108,
+					"term": "THC",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 2.08,
+					"unit": "ppm"
+				},
+				{
+					"index": 109,
+					"term": "THC",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.13,
+					"unit": "ppm"
+				}
+			]
+		},
+		{
+			"name": "古亭",
+			"data": [
+				{
+					"index": 0,
+					"term": "CH4",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.04,
+					"unit": "ppm"
+				},
+				{
+					"index": 1,
+					"term": "CH4",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.05,
+					"unit": "ppm"
+				},
+				{
+					"index": 2,
+					"term": "CH4",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 2.03,
+					"unit": "ppm"
+				},
+				{
+					"index": 3,
+					"term": "CH4",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.07,
+					"unit": "ppm"
+				},
+				{
+					"index": 4,
+					"term": "CH4",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.03,
+					"unit": "ppm"
+				},
+				{
+					"index": 5,
+					"term": "CH4",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 1.97,
+					"unit": "ppm"
+				},
+				{
+					"index": 6,
+					"term": "CH4",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 1.93,
+					"unit": "ppm"
+				},
+				{
+					"index": 7,
+					"term": "CH4",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 1.98,
+					"unit": "ppm"
+				},
+				{
+					"index": 8,
+					"term": "CH4",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 1.97,
+					"unit": "ppm"
+				},
+				{
+					"index": 9,
+					"term": "CH4",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.03,
+					"unit": "ppm"
+				},
+				{
+					"index": 10,
+					"term": "CO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.32,
+					"unit": "ppm"
+				},
+				{
+					"index": 11,
+					"term": "CO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.36,
+					"unit": "ppm"
+				},
+				{
+					"index": 12,
+					"term": "CO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.31,
+					"unit": "ppm"
+				},
+				{
+					"index": 13,
+					"term": "CO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.35,
+					"unit": "ppm"
+				},
+				{
+					"index": 14,
+					"term": "CO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.27,
+					"unit": "ppm"
+				},
+				{
+					"index": 15,
+					"term": "CO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.26,
+					"unit": "ppm"
+				},
+				{
+					"index": 16,
+					"term": "CO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.19,
+					"unit": "ppm"
+				},
+				{
+					"index": 17,
+					"term": "CO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.23,
+					"unit": "ppm"
+				},
+				{
+					"index": 18,
+					"term": "CO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.2,
+					"unit": "ppm"
+				},
+				{
+					"index": 19,
+					"term": "CO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.26,
+					"unit": "ppm"
+				},
+				{
+					"index": 20,
+					"term": "NMHC",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.07,
+					"unit": "ppm"
+				},
+				{
+					"index": 21,
+					"term": "NMHC",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.09,
+					"unit": "ppm"
+				},
+				{
+					"index": 22,
+					"term": "NMHC",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.07,
+					"unit": "ppm"
+				},
+				{
+					"index": 23,
+					"term": "NMHC",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.07,
+					"unit": "ppm"
+				},
+				{
+					"index": 24,
+					"term": "NMHC",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.06,
+					"unit": "ppm"
+				},
+				{
+					"index": 25,
+					"term": "NMHC",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.05,
+					"unit": "ppm"
+				},
+				{
+					"index": 26,
+					"term": "NMHC",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.04,
+					"unit": "ppm"
+				},
+				{
+					"index": 27,
+					"term": "NMHC",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.05,
+					"unit": "ppm"
+				},
+				{
+					"index": 28,
+					"term": "NMHC",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.03,
+					"unit": "ppm"
+				},
+				{
+					"index": 29,
+					"term": "NMHC",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.02,
+					"unit": "ppm"
+				},
+				{
+					"index": 30,
+					"term": "NO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.14,
+					"unit": "ppb"
+				},
+				{
+					"index": 31,
+					"term": "NO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 3.13,
+					"unit": "ppb"
+				},
+				{
+					"index": 32,
+					"term": "NO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 1.9,
+					"unit": "ppb"
+				},
+				{
+					"index": 33,
+					"term": "NO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 1.5,
+					"unit": "ppb"
+				},
+				{
+					"index": 34,
+					"term": "NO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 1.57,
+					"unit": "ppb"
+				},
+				{
+					"index": 35,
+					"term": "NO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 1.95,
+					"unit": "ppb"
+				},
+				{
+					"index": 36,
+					"term": "NO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 1.91,
+					"unit": "ppb"
+				},
+				{
+					"index": 37,
+					"term": "NO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 2.26,
+					"unit": "ppb"
+				},
+				{
+					"index": 38,
+					"term": "NO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 3.19,
+					"unit": "ppb"
+				},
+				{
+					"index": 39,
+					"term": "NO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 1.44,
+					"unit": "ppb"
+				},
+				{
+					"index": 40,
+					"term": "NO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 11.96,
+					"unit": "ppb"
+				},
+				{
+					"index": 41,
+					"term": "NO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 14.06,
+					"unit": "ppb"
+				},
+				{
+					"index": 42,
+					"term": "NO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 12.49,
+					"unit": "ppb"
+				},
+				{
+					"index": 43,
+					"term": "NO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 11.44,
+					"unit": "ppb"
+				},
+				{
+					"index": 44,
+					"term": "NO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 9.68,
+					"unit": "ppb"
+				},
+				{
+					"index": 45,
+					"term": "NO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 10.01,
+					"unit": "ppb"
+				},
+				{
+					"index": 46,
+					"term": "NO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 8.16,
+					"unit": "ppb"
+				},
+				{
+					"index": 47,
+					"term": "NO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 9.36,
+					"unit": "ppb"
+				},
+				{
+					"index": 48,
+					"term": "NO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 8.94,
+					"unit": "ppb"
+				},
+				{
+					"index": 49,
+					"term": "NO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 9.22,
+					"unit": "ppb"
+				},
+				{
+					"index": 50,
+					"term": "NOx",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 14.15,
+					"unit": "ppb"
+				},
+				{
+					"index": 51,
+					"term": "NOx",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 17.25,
+					"unit": "ppb"
+				},
+				{
+					"index": 52,
+					"term": "NOx",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 14.44,
+					"unit": "ppb"
+				},
+				{
+					"index": 53,
+					"term": "NOx",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 12.99,
+					"unit": "ppb"
+				},
+				{
+					"index": 54,
+					"term": "NOx",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 11.3,
+					"unit": "ppb"
+				},
+				{
+					"index": 55,
+					"term": "NOx",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 12.01,
+					"unit": "ppb"
+				},
+				{
+					"index": 56,
+					"term": "NOx",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 10.13,
+					"unit": "ppb"
+				},
+				{
+					"index": 57,
+					"term": "NOx",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 11.68,
+					"unit": "ppb"
+				},
+				{
+					"index": 58,
+					"term": "NOx",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 12.19,
+					"unit": "ppb"
+				},
+				{
+					"index": 59,
+					"term": "NOx",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 10.71,
+					"unit": "ppb"
+				},
+				{
+					"index": 60,
+					"term": "O3",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 30.95,
+					"unit": "ppb"
+				},
+				{
+					"index": 61,
+					"term": "O3",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 29.87,
+					"unit": "ppb"
+				},
+				{
+					"index": 62,
+					"term": "O3",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 36.34,
+					"unit": "ppb"
+				},
+				{
+					"index": 63,
+					"term": "O3",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 37.07,
+					"unit": "ppb"
+				},
+				{
+					"index": 64,
+					"term": "O3",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 32.73,
+					"unit": "ppb"
+				},
+				{
+					"index": 65,
+					"term": "O3",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 23.57,
+					"unit": "ppb"
+				},
+				{
+					"index": 66,
+					"term": "O3",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 21.68,
+					"unit": "ppb"
+				},
+				{
+					"index": 67,
+					"term": "O3",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 22.54,
+					"unit": "ppb"
+				},
+				{
+					"index": 68,
+					"term": "O3",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 23.2,
+					"unit": "ppb"
+				},
+				{
+					"index": 69,
+					"term": "O3",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 39.03,
+					"unit": "ppb"
+				},
+				{
+					"index": 70,
+					"term": "PM10",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 23.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 71,
+					"term": "PM10",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 24.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 72,
+					"term": "PM10",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 28.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 73,
+					"term": "PM10",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 35.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 74,
+					"term": "PM10",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 25.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 75,
+					"term": "PM10",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 19.0,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 76,
+					"term": "PM10",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 16.8,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 77,
+					"term": "PM10",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 20.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 78,
+					"term": "PM10",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 16.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 79,
+					"term": "PM10",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 20.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 80,
+					"term": "PM2.5",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 14.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 81,
+					"term": "PM2.5",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 14.8,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 82,
+					"term": "PM2.5",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 16.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 83,
+					"term": "PM2.5",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 19.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 84,
+					"term": "PM2.5",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 13.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 85,
+					"term": "PM2.5",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 11.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 86,
+					"term": "PM2.5",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 8.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 87,
+					"term": "PM2.5",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 9.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 88,
+					"term": "PM2.5",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 10.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 89,
+					"term": "PM2.5",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 12.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 90,
+					"term": "SO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.85,
+					"unit": "ppb"
+				},
+				{
+					"index": 91,
+					"term": "SO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.74,
+					"unit": "ppb"
+				},
+				{
+					"index": 92,
+					"term": "SO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.76,
+					"unit": "ppb"
+				},
+				{
+					"index": 93,
+					"term": "SO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.76,
+					"unit": "ppb"
+				},
+				{
+					"index": 94,
+					"term": "SO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.83,
+					"unit": "ppb"
+				},
+				{
+					"index": 95,
+					"term": "SO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.78,
+					"unit": "ppb"
+				},
+				{
+					"index": 96,
+					"term": "SO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.69,
+					"unit": "ppb"
+				},
+				{
+					"index": 97,
+					"term": "SO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.56,
+					"unit": "ppb"
+				},
+				{
+					"index": 98,
+					"term": "SO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.63,
+					"unit": "ppb"
+				},
+				{
+					"index": 99,
+					"term": "SO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.93,
+					"unit": "ppb"
+				},
+				{
+					"index": 100,
+					"term": "THC",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.11,
+					"unit": "ppm"
+				},
+				{
+					"index": 101,
+					"term": "THC",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.15,
+					"unit": "ppm"
+				},
+				{
+					"index": 102,
+					"term": "THC",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 2.11,
+					"unit": "ppm"
+				},
+				{
+					"index": 103,
+					"term": "THC",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.15,
+					"unit": "ppm"
+				},
+				{
+					"index": 104,
+					"term": "THC",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.09,
+					"unit": "ppm"
+				},
+				{
+					"index": 105,
+					"term": "THC",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 2.03,
+					"unit": "ppm"
+				},
+				{
+					"index": 106,
+					"term": "THC",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 1.97,
+					"unit": "ppm"
+				},
+				{
+					"index": 107,
+					"term": "THC",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 2.04,
+					"unit": "ppm"
+				},
+				{
+					"index": 108,
+					"term": "THC",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 2.01,
+					"unit": "ppm"
+				},
+				{
+					"index": 109,
+					"term": "THC",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.06,
+					"unit": "ppm"
+				}
+			]
+		},
+		{
+			"name": "松山",
+			"data": [
+				{
+					"index": 0,
+					"term": "CH4",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.09,
+					"unit": "ppm"
+				},
+				{
+					"index": 1,
+					"term": "CH4",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.09,
+					"unit": "ppm"
+				},
+				{
+					"index": 2,
+					"term": "CH4",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 2.09,
+					"unit": "ppm"
+				},
+				{
+					"index": 3,
+					"term": "CH4",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.13,
+					"unit": "ppm"
+				},
+				{
+					"index": 4,
+					"term": "CH4",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.08,
+					"unit": "ppm"
+				},
+				{
+					"index": 5,
+					"term": "CH4",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 2.02,
+					"unit": "ppm"
+				},
+				{
+					"index": 6,
+					"term": "CH4",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 1.97,
+					"unit": "ppm"
+				},
+				{
+					"index": 7,
+					"term": "CH4",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 2.03,
+					"unit": "ppm"
+				},
+				{
+					"index": 8,
+					"term": "CH4",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 2.0,
+					"unit": "ppm"
+				},
+				{
+					"index": 9,
+					"term": "CH4",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.05,
+					"unit": "ppm"
+				},
+				{
+					"index": 10,
+					"term": "CO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.35,
+					"unit": "ppm"
+				},
+				{
+					"index": 11,
+					"term": "CO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.37,
+					"unit": "ppm"
+				},
+				{
+					"index": 12,
+					"term": "CO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.35,
+					"unit": "ppm"
+				},
+				{
+					"index": 13,
+					"term": "CO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.36,
+					"unit": "ppm"
+				},
+				{
+					"index": 14,
+					"term": "CO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.3,
+					"unit": "ppm"
+				},
+				{
+					"index": 15,
+					"term": "CO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.29,
+					"unit": "ppm"
+				},
+				{
+					"index": 16,
+					"term": "CO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.23,
+					"unit": "ppm"
+				},
+				{
+					"index": 17,
+					"term": "CO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.28,
+					"unit": "ppm"
+				},
+				{
+					"index": 18,
+					"term": "CO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.2,
+					"unit": "ppm"
+				},
+				{
+					"index": 19,
+					"term": "CO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.26,
+					"unit": "ppm"
+				},
+				{
+					"index": 20,
+					"term": "NMHC",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.08,
+					"unit": "ppm"
+				},
+				{
+					"index": 21,
+					"term": "NMHC",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.1,
+					"unit": "ppm"
+				},
+				{
+					"index": 22,
+					"term": "NMHC",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.09,
+					"unit": "ppm"
+				},
+				{
+					"index": 23,
+					"term": "NMHC",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.07,
+					"unit": "ppm"
+				},
+				{
+					"index": 24,
+					"term": "NMHC",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.06,
+					"unit": "ppm"
+				},
+				{
+					"index": 25,
+					"term": "NMHC",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.07,
+					"unit": "ppm"
+				},
+				{
+					"index": 26,
+					"term": "NMHC",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.05,
+					"unit": "ppm"
+				},
+				{
+					"index": 27,
+					"term": "NMHC",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.06,
+					"unit": "ppm"
+				},
+				{
+					"index": 28,
+					"term": "NMHC",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.04,
+					"unit": "ppm"
+				},
+				{
+					"index": 29,
+					"term": "NMHC",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.03,
+					"unit": "ppm"
+				},
+				{
+					"index": 30,
+					"term": "NO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 4.3,
+					"unit": "ppb"
+				},
+				{
+					"index": 31,
+					"term": "NO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 5.52,
+					"unit": "ppb"
+				},
+				{
+					"index": 32,
+					"term": "NO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 3.98,
+					"unit": "ppb"
+				},
+				{
+					"index": 33,
+					"term": "NO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.96,
+					"unit": "ppb"
+				},
+				{
+					"index": 34,
+					"term": "NO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 3.35,
+					"unit": "ppb"
+				},
+				{
+					"index": 35,
+					"term": "NO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 4.31,
+					"unit": "ppb"
+				},
+				{
+					"index": 36,
+					"term": "NO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 4.17,
+					"unit": "ppb"
+				},
+				{
+					"index": 37,
+					"term": "NO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 4.95,
+					"unit": "ppb"
+				},
+				{
+					"index": 38,
+					"term": "NO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 3.51,
+					"unit": "ppb"
+				},
+				{
+					"index": 39,
+					"term": "NO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.3,
+					"unit": "ppb"
+				},
+				{
+					"index": 40,
+					"term": "NO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 15.44,
+					"unit": "ppb"
+				},
+				{
+					"index": 41,
+					"term": "NO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 17.78,
+					"unit": "ppb"
+				},
+				{
+					"index": 42,
+					"term": "NO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 17.94,
+					"unit": "ppb"
+				},
+				{
+					"index": 43,
+					"term": "NO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 15.92,
+					"unit": "ppb"
+				},
+				{
+					"index": 44,
+					"term": "NO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 13.72,
+					"unit": "ppb"
+				},
+				{
+					"index": 45,
+					"term": "NO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 13.06,
+					"unit": "ppb"
+				},
+				{
+					"index": 46,
+					"term": "NO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 11.0,
+					"unit": "ppb"
+				},
+				{
+					"index": 47,
+					"term": "NO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 12.83,
+					"unit": "ppb"
+				},
+				{
+					"index": 48,
+					"term": "NO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 10.61,
+					"unit": "ppb"
+				},
+				{
+					"index": 49,
+					"term": "NO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 12.88,
+					"unit": "ppb"
+				},
+				{
+					"index": 50,
+					"term": "NOx",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 19.79,
+					"unit": "ppb"
+				},
+				{
+					"index": 51,
+					"term": "NOx",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 23.36,
+					"unit": "ppb"
+				},
+				{
+					"index": 52,
+					"term": "NOx",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 21.97,
+					"unit": "ppb"
+				},
+				{
+					"index": 53,
+					"term": "NOx",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 18.93,
+					"unit": "ppb"
+				},
+				{
+					"index": 54,
+					"term": "NOx",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 17.12,
+					"unit": "ppb"
+				},
+				{
+					"index": 55,
+					"term": "NOx",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 17.42,
+					"unit": "ppb"
+				},
+				{
+					"index": 56,
+					"term": "NOx",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 15.22,
+					"unit": "ppb"
+				},
+				{
+					"index": 57,
+					"term": "NOx",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 17.85,
+					"unit": "ppb"
+				},
+				{
+					"index": 58,
+					"term": "NOx",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 14.18,
+					"unit": "ppb"
+				},
+				{
+					"index": 59,
+					"term": "NOx",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 15.24,
+					"unit": "ppb"
+				},
+				{
+					"index": 60,
+					"term": "O3",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 28.05,
+					"unit": "ppb"
+				},
+				{
+					"index": 61,
+					"term": "O3",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 26.92,
+					"unit": "ppb"
+				},
+				{
+					"index": 62,
+					"term": "O3",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 30.87,
+					"unit": "ppb"
+				},
+				{
+					"index": 63,
+					"term": "O3",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 33.83,
+					"unit": "ppb"
+				},
+				{
+					"index": 64,
+					"term": "O3",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 28.75,
+					"unit": "ppb"
+				},
+				{
+					"index": 65,
+					"term": "O3",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 20.56,
+					"unit": "ppb"
+				},
+				{
+					"index": 66,
+					"term": "O3",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 18.9,
+					"unit": "ppb"
+				},
+				{
+					"index": 67,
+					"term": "O3",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 19.29,
+					"unit": "ppb"
+				},
+				{
+					"index": 68,
+					"term": "O3",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 19.96,
+					"unit": "ppb"
+				},
+				{
+					"index": 69,
+					"term": "O3",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 33.82,
+					"unit": "ppb"
+				},
+				{
+					"index": 70,
+					"term": "PM10",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 27.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 71,
+					"term": "PM10",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 25.8,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 72,
+					"term": "PM10",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 31.5,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 73,
+					"term": "PM10",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 37.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 74,
+					"term": "PM10",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 29.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 75,
+					"term": "PM10",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 19.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 76,
+					"term": "PM10",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 16.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 77,
+					"term": "PM10",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 18.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 78,
+					"term": "PM10",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 15.5,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 79,
+					"term": "PM10",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 20.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 80,
+					"term": "PM2.5",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 14.0,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 81,
+					"term": "PM2.5",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 12.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 82,
+					"term": "PM2.5",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 14.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 83,
+					"term": "PM2.5",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 16.5,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 84,
+					"term": "PM2.5",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 13.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 85,
+					"term": "PM2.5",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 8.8,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 86,
+					"term": "PM2.5",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 6.8,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 87,
+					"term": "PM2.5",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 7.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 88,
+					"term": "PM2.5",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 5.8,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 89,
+					"term": "PM2.5",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 10.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 90,
+					"term": "SO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 1.11,
+					"unit": "ppb"
+				},
+				{
+					"index": 91,
+					"term": "SO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 1.21,
+					"unit": "ppb"
+				},
+				{
+					"index": 92,
+					"term": "SO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 1.21,
+					"unit": "ppb"
+				},
+				{
+					"index": 93,
+					"term": "SO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 1.04,
+					"unit": "ppb"
+				},
+				{
+					"index": 94,
+					"term": "SO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 1.08,
+					"unit": "ppb"
+				},
+				{
+					"index": 95,
+					"term": "SO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 1.17,
+					"unit": "ppb"
+				},
+				{
+					"index": 96,
+					"term": "SO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 1.04,
+					"unit": "ppb"
+				},
+				{
+					"index": 97,
+					"term": "SO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.86,
+					"unit": "ppb"
+				},
+				{
+					"index": 98,
+					"term": "SO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.91,
+					"unit": "ppb"
+				},
+				{
+					"index": 99,
+					"term": "SO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 1.02,
+					"unit": "ppb"
+				},
+				{
+					"index": 100,
+					"term": "THC",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.18,
+					"unit": "ppm"
+				},
+				{
+					"index": 101,
+					"term": "THC",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.2,
+					"unit": "ppm"
+				},
+				{
+					"index": 102,
+					"term": "THC",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 2.19,
+					"unit": "ppm"
+				},
+				{
+					"index": 103,
+					"term": "THC",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.21,
+					"unit": "ppm"
+				},
+				{
+					"index": 104,
+					"term": "THC",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.15,
+					"unit": "ppm"
+				},
+				{
+					"index": 105,
+					"term": "THC",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 2.1,
+					"unit": "ppm"
+				},
+				{
+					"index": 106,
+					"term": "THC",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 2.03,
+					"unit": "ppm"
+				},
+				{
+					"index": 107,
+					"term": "THC",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 2.1,
+					"unit": "ppm"
+				},
+				{
+					"index": 108,
+					"term": "THC",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 2.04,
+					"unit": "ppm"
+				},
+				{
+					"index": 109,
+					"term": "THC",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.09,
+					"unit": "ppm"
+				}
+			]
+		},
+		{
+			"name": "萬華",
+			"data": [
+				{
+					"index": 0,
+					"term": "CH4",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.21,
+					"unit": "ppm"
+				},
+				{
+					"index": 1,
+					"term": "CH4",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.23,
+					"unit": "ppm"
+				},
+				{
+					"index": 2,
+					"term": "CH4",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 2.21,
+					"unit": "ppm"
+				},
+				{
+					"index": 3,
+					"term": "CH4",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.24,
+					"unit": "ppm"
+				},
+				{
+					"index": 4,
+					"term": "CH4",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.17,
+					"unit": "ppm"
+				},
+				{
+					"index": 5,
+					"term": "CH4",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 2.16,
+					"unit": "ppm"
+				},
+				{
+					"index": 6,
+					"term": "CH4",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 2.12,
+					"unit": "ppm"
+				},
+				{
+					"index": 7,
+					"term": "CH4",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 2.17,
+					"unit": "ppm"
+				},
+				{
+					"index": 8,
+					"term": "CH4",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 2.11,
+					"unit": "ppm"
+				},
+				{
+					"index": 9,
+					"term": "CH4",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.16,
+					"unit": "ppm"
+				},
+				{
+					"index": 10,
+					"term": "CO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.42,
+					"unit": "ppm"
+				},
+				{
+					"index": 11,
+					"term": "CO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.47,
+					"unit": "ppm"
+				},
+				{
+					"index": 12,
+					"term": "CO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.42,
+					"unit": "ppm"
+				},
+				{
+					"index": 13,
+					"term": "CO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.46,
+					"unit": "ppm"
+				},
+				{
+					"index": 14,
+					"term": "CO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.38,
+					"unit": "ppm"
+				},
+				{
+					"index": 15,
+					"term": "CO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.37,
+					"unit": "ppm"
+				},
+				{
+					"index": 16,
+					"term": "CO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.3,
+					"unit": "ppm"
+				},
+				{
+					"index": 17,
+					"term": "CO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.35,
+					"unit": "ppm"
+				},
+				{
+					"index": 18,
+					"term": "CO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.28,
+					"unit": "ppm"
+				},
+				{
+					"index": 19,
+					"term": "CO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.33,
+					"unit": "ppm"
+				},
+				{
+					"index": 20,
+					"term": "NMHC",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 0.11,
+					"unit": "ppm"
+				},
+				{
+					"index": 21,
+					"term": "NMHC",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 0.14,
+					"unit": "ppm"
+				},
+				{
+					"index": 22,
+					"term": "NMHC",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 0.11,
+					"unit": "ppm"
+				},
+				{
+					"index": 23,
+					"term": "NMHC",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.1,
+					"unit": "ppm"
+				},
+				{
+					"index": 24,
+					"term": "NMHC",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 0.08,
+					"unit": "ppm"
+				},
+				{
+					"index": 25,
+					"term": "NMHC",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 0.09,
+					"unit": "ppm"
+				},
+				{
+					"index": 26,
+					"term": "NMHC",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.07,
+					"unit": "ppm"
+				},
+				{
+					"index": 27,
+					"term": "NMHC",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.08,
+					"unit": "ppm"
+				},
+				{
+					"index": 28,
+					"term": "NMHC",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.04,
+					"unit": "ppm"
+				},
+				{
+					"index": 29,
+					"term": "NMHC",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.05,
+					"unit": "ppm"
+				},
+				{
+					"index": 30,
+					"term": "NO",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 3.35,
+					"unit": "ppb"
+				},
+				{
+					"index": 31,
+					"term": "NO",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 5.43,
+					"unit": "ppb"
+				},
+				{
+					"index": 32,
+					"term": "NO",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 3.18,
+					"unit": "ppb"
+				},
+				{
+					"index": 33,
+					"term": "NO",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.55,
+					"unit": "ppb"
+				},
+				{
+					"index": 34,
+					"term": "NO",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.55,
+					"unit": "ppb"
+				},
+				{
+					"index": 35,
+					"term": "NO",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 3.3,
+					"unit": "ppb"
+				},
+				{
+					"index": 36,
+					"term": "NO",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 3.16,
+					"unit": "ppb"
+				},
+				{
+					"index": 37,
+					"term": "NO",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 3.12,
+					"unit": "ppb"
+				},
+				{
+					"index": 38,
+					"term": "NO",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 3.42,
+					"unit": "ppb"
+				},
+				{
+					"index": 39,
+					"term": "NO",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.12,
+					"unit": "ppb"
+				},
+				{
+					"index": 40,
+					"term": "NO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 17.55,
+					"unit": "ppb"
+				},
+				{
+					"index": 41,
+					"term": "NO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 20.53,
+					"unit": "ppb"
+				},
+				{
+					"index": 42,
+					"term": "NO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 19.63,
+					"unit": "ppb"
+				},
+				{
+					"index": 43,
+					"term": "NO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 18.56,
+					"unit": "ppb"
+				},
+				{
+					"index": 44,
+					"term": "NO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 15.58,
+					"unit": "ppb"
+				},
+				{
+					"index": 45,
+					"term": "NO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 14.41,
+					"unit": "ppb"
+				},
+				{
+					"index": 46,
+					"term": "NO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 12.22,
+					"unit": "ppb"
+				},
+				{
+					"index": 47,
+					"term": "NO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 13.51,
+					"unit": "ppb"
+				},
+				{
+					"index": 48,
+					"term": "NO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 12.47,
+					"unit": "ppb"
+				},
+				{
+					"index": 49,
+					"term": "NO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 14.7,
+					"unit": "ppb"
+				},
+				{
+					"index": 50,
+					"term": "NOx",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 20.95,
+					"unit": "ppb"
+				},
+				{
+					"index": 51,
+					"term": "NOx",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 26.01,
+					"unit": "ppb"
+				},
+				{
+					"index": 52,
+					"term": "NOx",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 22.87,
+					"unit": "ppb"
+				},
+				{
+					"index": 53,
+					"term": "NOx",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 21.17,
+					"unit": "ppb"
+				},
+				{
+					"index": 54,
+					"term": "NOx",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 18.19,
+					"unit": "ppb"
+				},
+				{
+					"index": 55,
+					"term": "NOx",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 17.77,
+					"unit": "ppb"
+				},
+				{
+					"index": 56,
+					"term": "NOx",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 15.43,
+					"unit": "ppb"
+				},
+				{
+					"index": 57,
+					"term": "NOx",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 16.68,
+					"unit": "ppb"
+				},
+				{
+					"index": 58,
+					"term": "NOx",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 15.94,
+					"unit": "ppb"
+				},
+				{
+					"index": 59,
+					"term": "NOx",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 16.88,
+					"unit": "ppb"
+				},
+				{
+					"index": 60,
+					"term": "O3",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 27.63,
+					"unit": "ppb"
+				},
+				{
+					"index": 61,
+					"term": "O3",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 26.52,
+					"unit": "ppb"
+				},
+				{
+					"index": 62,
+					"term": "O3",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 32.17,
+					"unit": "ppb"
+				},
+				{
+					"index": 63,
+					"term": "O3",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 33.88,
+					"unit": "ppb"
+				},
+				{
+					"index": 64,
+					"term": "O3",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 29.88,
+					"unit": "ppb"
+				},
+				{
+					"index": 65,
+					"term": "O3",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 22.33,
+					"unit": "ppb"
+				},
+				{
+					"index": 66,
+					"term": "O3",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 19.88,
+					"unit": "ppb"
+				},
+				{
+					"index": 67,
+					"term": "O3",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 21.41,
+					"unit": "ppb"
+				},
+				{
+					"index": 68,
+					"term": "O3",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 21.09,
+					"unit": "ppb"
+				},
+				{
+					"index": 69,
+					"term": "O3",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 36.45,
+					"unit": "ppb"
+				},
+				{
+					"index": 70,
+					"term": "PM10",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 23.5,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 71,
+					"term": "PM10",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 25.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 72,
+					"term": "PM10",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 29.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 73,
+					"term": "PM10",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 37.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 74,
+					"term": "PM10",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 25.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 75,
+					"term": "PM10",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 17.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 76,
+					"term": "PM10",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 15.7,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 77,
+					"term": "PM10",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 18.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 78,
+					"term": "PM10",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 17.1,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 79,
+					"term": "PM10",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 23.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 80,
+					"term": "PM2.5",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 15.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 81,
+					"term": "PM2.5",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 15.8,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 82,
+					"term": "PM2.5",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 16.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 83,
+					"term": "PM2.5",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 19.9,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 84,
+					"term": "PM2.5",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 14.0,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 85,
+					"term": "PM2.5",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 10.3,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 86,
+					"term": "PM2.5",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 9.0,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 87,
+					"term": "PM2.5",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 10.2,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 88,
+					"term": "PM2.5",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 9.6,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 89,
+					"term": "PM2.5",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 11.4,
+					"unit": "\u03bcg/m3"
+				},
+				{
+					"index": 90,
+					"term": "SO2",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 1.45,
+					"unit": "ppb"
+				},
+				{
+					"index": 91,
+					"term": "SO2",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 1.34,
+					"unit": "ppb"
+				},
+				{
+					"index": 92,
+					"term": "SO2",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 1.02,
+					"unit": "ppb"
+				},
+				{
+					"index": 93,
+					"term": "SO2",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 0.95,
+					"unit": "ppb"
+				},
+				{
+					"index": 94,
+					"term": "SO2",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 1.0,
+					"unit": "ppb"
+				},
+				{
+					"index": 95,
+					"term": "SO2",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 1.15,
+					"unit": "ppb"
+				},
+				{
+					"index": 96,
+					"term": "SO2",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 0.74,
+					"unit": "ppb"
+				},
+				{
+					"index": 97,
+					"term": "SO2",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 0.77,
+					"unit": "ppb"
+				},
+				{
+					"index": 98,
+					"term": "SO2",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 0.77,
+					"unit": "ppb"
+				},
+				{
+					"index": 99,
+					"term": "SO2",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 0.78,
+					"unit": "ppb"
+				},
+				{
+					"index": 100,
+					"term": "THC",
+					"date": "2023-01-01T00:00:00+08:00",
+					"Average": 2.32,
+					"unit": "ppm"
+				},
+				{
+					"index": 101,
+					"term": "THC",
+					"date": "2023-02-01T00:00:00+08:00",
+					"Average": 2.38,
+					"unit": "ppm"
+				},
+				{
+					"index": 102,
+					"term": "THC",
+					"date": "2023-03-01T00:00:00+08:00",
+					"Average": 2.33,
+					"unit": "ppm"
+				},
+				{
+					"index": 103,
+					"term": "THC",
+					"date": "2023-04-01T00:00:00+08:00",
+					"Average": 2.34,
+					"unit": "ppm"
+				},
+				{
+					"index": 104,
+					"term": "THC",
+					"date": "2023-05-01T00:00:00+08:00",
+					"Average": 2.26,
+					"unit": "ppm"
+				},
+				{
+					"index": 105,
+					"term": "THC",
+					"date": "2023-06-01T00:00:00+08:00",
+					"Average": 2.26,
+					"unit": "ppm"
+				},
+				{
+					"index": 106,
+					"term": "THC",
+					"date": "2023-07-01T00:00:00+08:00",
+					"Average": 2.2,
+					"unit": "ppm"
+				},
+				{
+					"index": 107,
+					"term": "THC",
+					"date": "2023-08-01T00:00:00+08:00",
+					"Average": 2.26,
+					"unit": "ppm"
+				},
+				{
+					"index": 108,
+					"term": "THC",
+					"date": "2023-09-01T00:00:00+08:00",
+					"Average": 2.16,
+					"unit": "ppm"
+				},
+				{
+					"index": 109,
+					"term": "THC",
+					"date": "2023-10-01T00:00:00+08:00",
+					"Average": 2.21,
+					"unit": "ppm"
+				}
+			]
+		}
+	]
+}
