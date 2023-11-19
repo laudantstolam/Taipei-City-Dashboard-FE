@@ -12,6 +12,9 @@ const chartOptions = ref({
 			show: false,
 		},
 	},
+	animations: {
+		enabled: false, // 禁用动画以避免缩小效果
+	},
 	colors: props.chart_config.color,
 	grid: {
 		show: false,

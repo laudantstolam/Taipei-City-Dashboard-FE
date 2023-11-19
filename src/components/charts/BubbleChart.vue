@@ -67,9 +67,11 @@ function handleDataSelection(e, chartContext, config) {
 			height="300px"
 			type="bubble"
 			:options="chartOptions"
-			:series="parseSeries.series"
+			:series="series"
 			@dataPointSelection="handleDataSelection"
 		>
 		</apexchart>
+		12
 	</div>
+	344
 </template>
