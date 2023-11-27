@@ -20,6 +20,28 @@ const mapStore = useMapStore();
 // })
 
 // Apexcharts 設定
+const temp = [
+	{
+		name: "PM2.5",
+		data: ["11", "10", "10"],
+	},
+];
+
+const temp2 = [
+	[
+		{
+			name: "sunshine",
+			data: ["4.3", "3.8", "3.3"],
+		},
+	],
+];
+
+const temp3 = [
+	{
+		name: "score",
+		data: ["33.7", "24.9", "15.3"],
+	},
+];
 const chartOptions = ref({
 	chart: {
 		borderRadius: 5,
@@ -34,7 +56,8 @@ const chartOptions = ref({
 // // 選擇性包含
 // // 如圖表希望支援地圖篩選則應包含
 const selectedIndex = ref(null);
-
+// props.series = props.series[0];
+// console(test);
 function handleDataSelection(e, chartContext, config) {
 	if (!props.chart_config.map_filter) {
 		return;
@@ -48,30 +71,46 @@ function handleDataSelection(e, chartContext, config) {
 		selectedIndex.value = config.dataPointIndex;
 	} else {
 		mapStore.clearLayerFilter(
-			`${props.map_config[0].index}-${props.map_config[0].type}`
+			`${props.map_config[0].index}-$s{props.map_config[0].type}`
 		);
 		selectedIndex.value = null;
 	}
 }
+// const for_one = props.series[0];
+// const for_two = props.series[1];
+// const for_three = props.series[2];
 </script>
 
 <template>
 	<!-- conditionally render the chart -->
+	test
 	<div v-if="activeChart === 'BubbleChart'">
-		<!-- type: apexcharts 的圖表種類。可能與本專案的命名有些不同。 -->
-		<!-- options: 填入 chartOptions 物件 -->
-		<!-- series: 填入 series 或 parsed series -->
-		<!-- dataPointSelection: 如有地圖篩選功能應包含 -->
 		<apexchart
 			width="80%"
-			height="300px"
-			type="bubble"
+			height="250px"
+			type="line"
 			:options="chartOptions"
-			:series="series"
+			:series="temp"
 			@dataPointSelection="handleDataSelection"
 		>
 		</apexchart>
-		12
+		<apexchart
+			width="80%"
+			height="160px"
+			type="line"
+			:options="chartOptions"
+			:series="temp2"
+			@dataPointSelection="handleDataSelection"
+		>
+		</apexchart>
+		<apexchart
+			width="80%"
+			height="160px"
+			type="line"
+			:options="chartOptions"
+			:series="temp3"
+			@dataPointSelection="handleDataSelection"
+		>
+		</apexchart>
 	</div>
-	344
 </template>
